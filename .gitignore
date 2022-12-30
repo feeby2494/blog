@@ -1,0 +1,11 @@
+/venv
+venv
+
+.env
+/blog/.env
+/posts/.env
+*/.env
+
+db.sqlite3
+/blog/db.sqlite3
+*/*.sqlite3
